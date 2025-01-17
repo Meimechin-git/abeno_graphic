@@ -3,6 +3,12 @@
 ## 概要
 Pythonで3次元の描画を行うライブラリです。
 
+sample1.pyイメージ
+![Image](https://github.com/user-attachments/assets/501bbb58-cd40-4b33-9d93-1da257fe08fb)
+
+sample2.pyイメージ
+![Image](https://github.com/user-attachments/assets/09136165-fad6-4043-82c1-b84bab992f19)
+
 ## 特徴
 - PyPyに最適化
 - 面、線、点などの情報を指定して描画
